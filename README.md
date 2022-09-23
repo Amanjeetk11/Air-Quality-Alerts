@@ -4,7 +4,7 @@
 Air Quality Manamagement system is an IoT project that sends alerts when Air quality index value reches the maximum threshold value. 
 
 ### Website
-  > https://error404m.github.io/Air-Quality-Alerts/
+  > (https://dbms.redixolabs.in/)
 
 ### Demo Video
   > Drive Link
